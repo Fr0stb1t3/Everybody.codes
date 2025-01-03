@@ -3,7 +3,7 @@ import sys
 
 def create_quest_folder(number):
     # Create folder name
-    folder_name = f"Quest {number}"
+    folder_name = f"2024\Quest {number}"
     
     # Create the folder
     try:
